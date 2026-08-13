@@ -1,0 +1,7 @@
+{
+  "name": "grd-caracterizacion-reumatologia",
+  "compatibility_date": "2026-08-13",
+  "assets": {
+    "directory": "./public"
+  }
+}
